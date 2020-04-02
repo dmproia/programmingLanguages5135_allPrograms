@@ -1,0 +1,3 @@
+deleteit(X,[],[]).
+deleteit(H,[H|T],X) :- deleteit(H,T,X).  
+deleteit(H,[P|T],[P|Y]) :- deleteit(H,T,Y).

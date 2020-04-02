@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project2_Proia_David
+</name>
+</assembly>
+<members>
+<member name="M:Project2_Proia_David.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Project2_Proia_David.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Project2_Proia_David.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:Project2_Proia_David.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member>
+</members>
+</doc>

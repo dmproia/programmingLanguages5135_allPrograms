@@ -1,0 +1,14 @@
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\ApplicationIcon.png
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\Background.png
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\Project2_Proia_David.dll
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\Project2_Proia_David.pdb
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\Project2_Proia_David.xml
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\AppManifest.xaml
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\Bin\Debug\Project2_Proia_David.xap
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\App.g.i.vb
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\MainPage.g.i.vb
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\Project2_Proia_David.g.resources
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\Project2_Proia_David.dll
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\Project2_Proia_David.xml
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\Project2_Proia_David.pdb
+H:\spring semester 2013\Summers - Gui\Project2\Project2_Proia_David\Project2_Proia_David\obj\Debug\XapCacheFile.xml
